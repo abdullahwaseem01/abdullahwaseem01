@@ -19,8 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <a href="https://github.com/abdullahwaseem01/MNIST-Database-CBIR">
   <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=MNIST-Database-CBIR&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
-<a href="https://github.com/abdullahwaseem01/Conosto-University">
-  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=Conosto-University&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
+<a href="https://github.com/abdullahwaseem01/Lab-Manager">
+  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=Lab-Manager&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
 <a href="https://github.com/abdullahwaseem01/cryptospace">
   <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=cryptospace&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000"/>
