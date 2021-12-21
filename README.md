@@ -52,7 +52,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
     <img align = "center" style = "margin: 2rem;" src="https://github-readme-stats.vercel.app/api?username=abdullahwaseem01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000"/>
   </a>
 
-  ## Daily Office Quote
+  <!-- ## Daily Office Quote
   > {office_quote}
   >
-  > <p>{office_character}</p>
+  > <p>{office_character}</p> -->

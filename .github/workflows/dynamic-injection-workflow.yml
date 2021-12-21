@@ -1,7 +1,7 @@
 name: Dynamic README injection
 on:
   schedule: 
-    - cron: "* * * * *"
+    - cron: '* * * * *'
   workflow_dispatch:
 jobs:
   get-office-quotes:
@@ -27,6 +27,6 @@ jobs:
           git config --global user.email "abdullah.waseem@ontariotechu.net"
           git commit -m "[Automated] README updated with new Office quote!"
       - name: Push
-        uses: ad-m/github-push-action@master
+        uses: ad-m/gith ub-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
