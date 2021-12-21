@@ -53,5 +53,6 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
   </a>
 
   ## Daily Office Quote
-    {office_quote}
-    {office_character}
+  > {office_quote}
+  >
+  > <p>{office_character}</p>
