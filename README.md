@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > You can&#39;t let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. &#39;Oh I like your dress, but I&#39;d like it more if you had prettier hair.&#39;
+  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
   >
-  > <p>-Andy Bernard</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
