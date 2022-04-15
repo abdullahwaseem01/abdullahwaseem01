@@ -1,0 +1,22 @@
+{
+  "name": "abdullahwaseem01",
+  "version": "1.0.0",
+  "description": "[![Abdullah's Github Banner](./assets/header.png)](https://github.com/abdullahwaseem01)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahwaseem01/abdullahwaseem01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahwaseem01/abdullahwaseem01/issues"
+  },
+  "homepage": "https://github.com/abdullahwaseem01/abdullahwaseem01#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mustache": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
