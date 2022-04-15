@@ -11,6 +11,11 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 
 <br>
 
+  ## Daily Office Quote
+  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
+  >
+  > <p>-Erin Hannon</p>
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/abdullahwaseem01/our-blog">
@@ -51,8 +56,3 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
   <a href ="">
     <img align = "center" style = "margin: 2rem;" src="https://github-readme-stats.vercel.app/api?username=abdullahwaseem01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000"/>
   </a>
-
-  ## Daily Office Quote
-  > Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
-  >
-  > <p>-Michael Scott</p>
