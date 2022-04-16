@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It&#39;s performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don&#39;t really know what to expect.
+  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
