@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > Everybody stay calm! Stay f*&amp;#!#% calm!
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
