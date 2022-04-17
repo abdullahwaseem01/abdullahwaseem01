@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It has to be official, and it has to be urine.
+  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
