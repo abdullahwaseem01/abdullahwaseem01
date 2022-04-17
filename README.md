@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel God in this Chili’s tonight.
+  > Bears, Beets, Battlestar Galactica.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
