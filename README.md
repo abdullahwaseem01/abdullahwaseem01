@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
+  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
   >
-  > <p>-Erin Hannon</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
