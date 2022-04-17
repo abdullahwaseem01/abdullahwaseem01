@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
   >
-  > <p>-Gabe Lewis</p>
+  > <p>-Ryan Howard</p>
 
 ## 📌 Pinned Repositories
 
