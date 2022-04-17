@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+  > It&#39;s performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don&#39;t really know what to expect.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
