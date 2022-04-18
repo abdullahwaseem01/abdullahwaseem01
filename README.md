@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I had feelings today for a coworker that I haven&#39;t had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
