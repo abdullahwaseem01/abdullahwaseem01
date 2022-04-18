@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
+  > There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I&#39;ll be reading their e-mails.
   >
-  > <p>-Erin Hannon</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
