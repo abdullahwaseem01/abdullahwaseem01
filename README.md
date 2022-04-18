@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I. Declare. Bankruptcy!
+  > I am immensely proud of what I did for that turtle!
   >
-  > <p>-Michael Scott</p>
+  > <p>-Kevin Malone</p>
 
 ## 📌 Pinned Repositories
 
