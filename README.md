@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
