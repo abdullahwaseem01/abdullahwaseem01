@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Everybody stay calm! Stay f*&amp;#!#% calm!
+  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Erin Hannon</p>
 
 ## 📌 Pinned Repositories
 
