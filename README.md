@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Oscar Martinez</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
