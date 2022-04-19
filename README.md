@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I don&#39;t talk trash, I talk smack. They&#39;re totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You&#39;re ugly and I know it for a fact &#39;cause I got the evidence right there.
+  > It&#39;s true. I&#39;m having a party. I&#39;ve got three cases of imported beer, a karaoke machine, and I didn&#39;t invite Michael. So three ingredients for a great party. And it&#39;s nothing personal, I just think that if he were there, people wouldn&#39;t be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I&#39;m pretty sure he thinks that I&#39;m making Dwight up. [sighs] He is very real.
   >
-  > <p>-Kelly Kapoor</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
