@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Bears, Beets, Battlestar Galactica.
+  > Occasionally, I’ll hit somebody with my car. So sue me.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
