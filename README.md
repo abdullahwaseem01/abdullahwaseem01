@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > If you pray enough, you can change yourself into a cat person.
+  > Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I&#39;ve just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
   >
-  > <p>-Angela Martin</p>
+  > <p>-Creed Bratton</p>
 
 ## 📌 Pinned Repositories
 
