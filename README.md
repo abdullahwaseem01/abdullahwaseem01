@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
