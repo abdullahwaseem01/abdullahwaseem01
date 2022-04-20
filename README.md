@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Occasionally, I’ll hit somebody with my car. So sue me.
+  > Sorry I annoyed you with my friendship.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
