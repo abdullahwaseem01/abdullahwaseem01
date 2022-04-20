@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+  > Shut up about the sun. SHUT UP ABOUT THE SUN!
   >
-  > <p>-Michael Scott</p>
+  > <p>-Gabe Lewis</p>
 
 ## 📌 Pinned Repositories
 
