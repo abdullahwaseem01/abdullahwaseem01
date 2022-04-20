@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I&#39;ve just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
   >
-  > <p>-Creed Bratton</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
