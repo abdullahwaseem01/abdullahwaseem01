@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Gabe Lewis</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
