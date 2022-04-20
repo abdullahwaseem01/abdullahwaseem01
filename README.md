@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I am immensely proud of what I did for that turtle!
+  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
   >
-  > <p>-Kevin Malone</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
