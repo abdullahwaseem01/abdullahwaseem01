@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > I feel God in this Chili’s tonight.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
