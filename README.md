@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
   >
-  > <p>-Angela Martin</p>
+  > <p>-Phyllis Lapin</p>
 
 ## 📌 Pinned Repositories
 
