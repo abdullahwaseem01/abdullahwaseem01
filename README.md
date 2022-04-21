@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Sorry I annoyed you with my friendship.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Andy Bernard</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
