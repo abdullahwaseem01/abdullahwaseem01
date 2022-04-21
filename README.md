@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Sorry I annoyed you with my friendship.
+  > I feel God in this Chili’s tonight.
   >
-  > <p>-Andy Bernard</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
