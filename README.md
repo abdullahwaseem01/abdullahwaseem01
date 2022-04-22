@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
+  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
   >
-  > <p>-Erin Hannon</p>
+  > <p>-Phyllis Lapin</p>
 
 ## 📌 Pinned Repositories
 
