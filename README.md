@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
