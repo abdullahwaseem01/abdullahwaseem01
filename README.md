@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Everybody stay calm! Stay f*&amp;#!#% calm!
+  > I&#39;ll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I&#39;m always thinking one step ahead. Like a carpenter that makes stairs.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
