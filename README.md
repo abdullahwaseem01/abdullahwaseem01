@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
