@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Phyllis Lapin</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
