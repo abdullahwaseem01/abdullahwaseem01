@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I had feelings today for a coworker that I haven&#39;t had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+  > I don&#39;t talk trash, I talk smack. They&#39;re totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You&#39;re ugly and I know it for a fact &#39;cause I got the evidence right there.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
