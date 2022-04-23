@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+  > Occasionally, I’ll hit somebody with my car. So sue me.
   >
-  > <p>-Oscar Martinez</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
