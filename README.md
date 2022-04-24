@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Everybody stay calm! Stay f*&amp;#!#% calm!
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
