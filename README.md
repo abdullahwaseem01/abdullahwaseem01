@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+  > There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I&#39;ll be reading their e-mails.
   >
   > <p>-Michael Scott</p>
 
