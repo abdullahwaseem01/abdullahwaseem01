@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
+  > Occasionally, I’ll hit somebody with my car. So sue me.
   >
-  > <p>-Phyllis Lapin</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
