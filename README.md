@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > In a gang world, we use something called fluffy fingers. That&#39;s when someone really gets in your face, you know you just, start ticklin&#39; &#39;em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you&#39;ve forgotten the whole thing. Y&#39;all just go to church together, and get an ice cream cone.
+  > I don&#39;t talk trash, I talk smack. They&#39;re totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You&#39;re ugly and I know it for a fact &#39;cause I got the evidence right there.
   >
-  > <p>-Darryl Philbin</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
