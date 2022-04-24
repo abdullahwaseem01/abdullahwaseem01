@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It has to be official, and it has to be urine.
+  > I am immensely proud of what I did for that turtle!
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Kevin Malone</p>
 
 ## 📌 Pinned Repositories
 
