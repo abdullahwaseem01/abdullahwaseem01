@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
+  > In a gang world, we use something called fluffy fingers. That&#39;s when someone really gets in your face, you know you just, start ticklin&#39; &#39;em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you&#39;ve forgotten the whole thing. Y&#39;all just go to church together, and get an ice cream cone.
   >
-  > <p>-Ryan Howard</p>
+  > <p>-Darryl Philbin</p>
 
 ## 📌 Pinned Repositories
 
