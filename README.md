@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
   >
-  > <p>-Oscar Martinez</p>
+  > <p>-Erin Hannon</p>
 
 ## 📌 Pinned Repositories
 
