@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Everybody stay calm! Stay f*&amp;#!#% calm!
+  > Bears, Beets, Battlestar Galactica.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
