@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Bears, Beets, Battlestar Galactica.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
