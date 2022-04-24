@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+  > I&#39;ll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I&#39;m always thinking one step ahead. Like a carpenter that makes stairs.
   >
   > <p>-Andy Bernard</p>
 
