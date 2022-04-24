@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Dwight, you ignorant slut!
+  > Everybody stay calm! Stay f*&amp;#!#% calm!
   >
   > <p>-Michael Scott</p>
 
