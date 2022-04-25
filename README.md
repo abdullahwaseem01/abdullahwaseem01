@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It has to be official, and it has to be urine.
+  > Dwight, you ignorant slut!
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
