@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Sorry I annoyed you with my friendship.
+  > Everybody stay calm! Stay f*&amp;#!#% calm!
   >
-  > <p>-Andy Bernard</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
