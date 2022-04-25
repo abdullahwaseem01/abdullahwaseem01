@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+  > Everybody stay calm! Stay f*&amp;#!#% calm!
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
