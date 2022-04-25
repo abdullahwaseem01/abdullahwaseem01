@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
+  > Occasionally, I’ll hit somebody with my car. So sue me.
   >
   > <p>-Michael Scott</p>
 
