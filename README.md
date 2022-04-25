@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+  > You can&#39;t let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. &#39;Oh I like your dress, but I&#39;d like it more if you had prettier hair.&#39;
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
