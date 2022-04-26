@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I had feelings today for a coworker that I haven&#39;t had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+  > It&#39;s performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don&#39;t really know what to expect.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
