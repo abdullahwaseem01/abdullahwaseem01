@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
