@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
+  > I wish there was a way to know you’re in the good old days, before you’ve actually left them.
   >
-  > <p>-Ryan Howard</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
