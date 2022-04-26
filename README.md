@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Bears, Beets, Battlestar Galactica.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
