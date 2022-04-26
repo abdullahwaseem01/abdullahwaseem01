@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
   >
-  > <p>-Michael Scott</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
