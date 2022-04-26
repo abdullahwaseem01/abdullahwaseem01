@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
+  > I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
   >
-  > <p>-Phyllis Lapin</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
