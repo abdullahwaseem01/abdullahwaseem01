@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Sorry I annoyed you with my friendship.
+  > Did I stutter?
   >
-  > <p>-Andy Bernard</p>
+  > <p>-Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 
