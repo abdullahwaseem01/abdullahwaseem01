@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
