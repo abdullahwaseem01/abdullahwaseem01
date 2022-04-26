@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
