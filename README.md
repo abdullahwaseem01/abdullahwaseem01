@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
+  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
   >
-  > <p>-Toby Flenderson</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
