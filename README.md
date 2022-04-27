@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Bears, Beets, Battlestar Galactica.
+  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
