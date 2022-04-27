@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I. Declare. Bankruptcy!
+  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
   >
   > <p>-Michael Scott</p>
 
