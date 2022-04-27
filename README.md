@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+  > It&#39;s true. I&#39;m having a party. I&#39;ve got three cases of imported beer, a karaoke machine, and I didn&#39;t invite Michael. So three ingredients for a great party. And it&#39;s nothing personal, I just think that if he were there, people wouldn&#39;t be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I&#39;m pretty sure he thinks that I&#39;m making Dwight up. [sighs] He is very real.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
