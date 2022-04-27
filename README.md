@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It has to be official, and it has to be urine.
+  > Bears, Beets, Battlestar Galactica.
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
