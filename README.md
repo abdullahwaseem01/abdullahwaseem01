@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
+  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
