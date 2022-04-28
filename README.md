@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Gabe Lewis</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
