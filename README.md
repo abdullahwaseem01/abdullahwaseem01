@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
