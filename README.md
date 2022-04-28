@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
+  > Did I stutter?
   >
-  > <p>-Michael Scott</p>
+  > <p>-Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 
