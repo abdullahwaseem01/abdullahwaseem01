@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
+  > Did I stutter?
   >
-  > <p>-Phyllis Lapin</p>
+  > <p>-Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 
