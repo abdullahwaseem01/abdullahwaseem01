@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > Sorry I annoyed you with my friendship.
   >
-  > <p>-Gabe Lewis</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
