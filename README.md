@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
+  > You can&#39;t let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. &#39;Oh I like your dress, but I&#39;d like it more if you had prettier hair.&#39;
   >
-  > <p>-Toby Flenderson</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
