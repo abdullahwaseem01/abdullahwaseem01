@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > Dwight, you ignorant slut!
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
