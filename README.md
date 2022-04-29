@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I&#39;ll be reading their e-mails.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Michael Scott</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
