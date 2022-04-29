@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > If you pray enough, you can change yourself into a cat person.
+  > Occasionally, I’ll hit somebody with my car. So sue me.
   >
-  > <p>-Angela Martin</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
