@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel God in this Chili’s tonight.
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
