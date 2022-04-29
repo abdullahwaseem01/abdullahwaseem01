@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
