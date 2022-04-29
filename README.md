@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   >
-  > <p>-Angela Martin</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
