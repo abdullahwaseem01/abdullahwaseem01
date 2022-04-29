@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It&#39;s true. I&#39;m having a party. I&#39;ve got three cases of imported beer, a karaoke machine, and I didn&#39;t invite Michael. So three ingredients for a great party. And it&#39;s nothing personal, I just think that if he were there, people wouldn&#39;t be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I&#39;m pretty sure he thinks that I&#39;m making Dwight up. [sighs] He is very real.
+  > I have been Michael&#39;s #2 guy for about 5 years. And we make a great team. We&#39;re like one of those classic famous teams. He&#39;s like Mozart, and I&#39;m like Mozart&#39;s friend. No. I&#39;m like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you&#39;re going to get a bullet in your head courtesy of Butch Cassidy.
   >
-  > <p>-Jim Halpert</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
