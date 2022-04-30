@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
+  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
   >
-  > <p>-Ryan Howard</p>
+  > <p>-Phyllis Lapin</p>
 
 ## 📌 Pinned Repositories
 
