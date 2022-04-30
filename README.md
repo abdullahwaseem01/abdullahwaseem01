@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I am immensely proud of what I did for that turtle!
+  > Everybody stay calm! Stay f*&amp;#!#% calm!
   >
-  > <p>-Kevin Malone</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
