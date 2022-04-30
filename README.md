@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it&#39;s an important event that you want to remember, I recommend using a real camera.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Erin Hannon</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
