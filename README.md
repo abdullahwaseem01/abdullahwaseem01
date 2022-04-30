@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
   >
-  > <p>-Gabe Lewis</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
