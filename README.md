@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
