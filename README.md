@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It&#39;s performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don&#39;t really know what to expect.
+  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
