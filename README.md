@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+  > Bears, Beets, Battlestar Galactica.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
