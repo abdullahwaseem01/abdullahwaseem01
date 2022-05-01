@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Toby Flenderson</p>
 
 ## 📌 Pinned Repositories
 
