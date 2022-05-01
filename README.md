@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+  > Sorry I annoyed you with my friendship.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
