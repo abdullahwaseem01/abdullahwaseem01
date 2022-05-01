@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
