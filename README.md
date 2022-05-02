@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Michael Scott</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
