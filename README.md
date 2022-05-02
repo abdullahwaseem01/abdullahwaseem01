@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It&#39;s performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don&#39;t really know what to expect.
+  > There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I&#39;ll be reading their e-mails.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
