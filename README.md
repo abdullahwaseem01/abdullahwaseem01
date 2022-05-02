@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I&#39;ll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I&#39;m always thinking one step ahead. Like a carpenter that makes stairs.
+  > Sorry I annoyed you with my friendship.
   >
   > <p>-Andy Bernard</p>
 
