@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I. Declare. Bankruptcy!
+  > Dwight, you ignorant slut!
   >
   > <p>-Michael Scott</p>
 
