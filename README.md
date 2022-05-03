@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+  > Did I stutter?
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 
