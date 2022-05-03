@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+  > I had feelings today for a coworker that I haven&#39;t had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
