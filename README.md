@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
   >
-  > <p>-Angela Martin</p>
+  > <p>-Oscar Martinez</p>
 
 ## 📌 Pinned Repositories
 
