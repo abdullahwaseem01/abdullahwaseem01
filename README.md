@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > In a gang world, we use something called fluffy fingers. That&#39;s when someone really gets in your face, you know you just, start ticklin&#39; &#39;em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you&#39;ve forgotten the whole thing. Y&#39;all just go to church together, and get an ice cream cone.
+  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
   >
-  > <p>-Darryl Philbin</p>
+  > <p>-Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 
