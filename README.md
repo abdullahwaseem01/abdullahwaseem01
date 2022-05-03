@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
