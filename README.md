@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+  > I feel God in this Chili’s tonight.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
