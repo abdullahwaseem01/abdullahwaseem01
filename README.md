@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+  > I wish there was a way to know you’re in the good old days, before you’ve actually left them.
   >
-  > <p>-Oscar Martinez</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
