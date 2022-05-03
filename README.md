@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > Everybody stay calm! Stay f*&amp;#!#% calm!
   >
-  > <p>-Gabe Lewis</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
