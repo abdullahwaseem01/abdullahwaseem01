@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I am immensely proud of what I did for that turtle!
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Kevin Malone</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
