@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
