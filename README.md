@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+  > I don&#39;t talk trash, I talk smack. They&#39;re totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You&#39;re ugly and I know it for a fact &#39;cause I got the evidence right there.
   >
-  > <p>-Oscar Martinez</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
