@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I. Declare. Bankruptcy!
+  > I have been Michael&#39;s #2 guy for about 5 years. And we make a great team. We&#39;re like one of those classic famous teams. He&#39;s like Mozart, and I&#39;m like Mozart&#39;s friend. No. I&#39;m like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you&#39;re going to get a bullet in your head courtesy of Butch Cassidy.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
