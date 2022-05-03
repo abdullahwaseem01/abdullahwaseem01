@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
+  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
   >
-  > <p>-Ryan Howard</p>
+  > <p>-Toby Flenderson</p>
 
 ## 📌 Pinned Repositories
 
