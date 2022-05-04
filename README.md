@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+  > It has to be official, and it has to be urine.
   >
-  > <p>-Andy Bernard</p>
+  > <p>-Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
