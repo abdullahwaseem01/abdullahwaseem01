@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+  > Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
   >
-  > <p>-Oscar Martinez</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
