@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Dwight, you ignorant slut!
+  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
   >
   > <p>-Michael Scott</p>
 
