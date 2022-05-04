@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Did I stutter?
+  > If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
