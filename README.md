@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>-Michael Scott</p>
+  > <p>-Angela Martin</p>
 
 ## 📌 Pinned Repositories
 
