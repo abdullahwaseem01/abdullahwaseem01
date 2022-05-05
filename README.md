@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+  > I&#39;ll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I&#39;m always thinking one step ahead. Like a carpenter that makes stairs.
   >
-  > <p>-Stanley Hudson</p>
+  > <p>-Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 
