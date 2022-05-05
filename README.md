@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
+  > There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I&#39;ll be reading their e-mails.
   >
-  > <p>-Dwight Schrute</p>
+  > <p>-Michael Scott</p>
 
 ## 📌 Pinned Repositories
 
