@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
+  > It&#39;s true. I&#39;m having a party. I&#39;ve got three cases of imported beer, a karaoke machine, and I didn&#39;t invite Michael. So three ingredients for a great party. And it&#39;s nothing personal, I just think that if he were there, people wouldn&#39;t be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I&#39;m pretty sure he thinks that I&#39;m making Dwight up. [sighs] He is very real.
   >
-  > <p>-Ryan Howard</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
