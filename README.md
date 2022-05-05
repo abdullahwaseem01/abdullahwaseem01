@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I have a lot of questions. Number one, how dare you?
+  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
   >
-  > <p>-Kelly Kapoor</p>
+  > <p>-Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 
