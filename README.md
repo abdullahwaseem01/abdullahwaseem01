@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel God in this Chili’s tonight.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Pam Beesly</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
