@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed&#39;s brain, I opened up a Word document on his computer and put an address at the top. I&#39;ve read some of it. Even for the Internet, it&#39;s... pretty shocking.
+  > Bears, Beets, Battlestar Galactica.
   >
-  > <p>-Ryan Howard</p>
+  > <p>-Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 
@@ -37,13 +37,13 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 ## 💼 Skills
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=fcdc00)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=43853D)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=e54c21)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=258eca)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=009404)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=254f73)
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=5ec9f7)
 ![](https://img.shields.io/badge/ASP.NET-informational?style=flat&logo=.net&logoColor=white&color=6e15e7)
+![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=097e8f)
 ![](https://img.shields.io/badge/Oracle_Business_Intelligence_(BI)-informational?style=flat&logo=oracle&logoColor=white&color=c84734)
 
 <br>
