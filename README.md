@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>-Angela Martin</p>
+  > <p>-Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 
