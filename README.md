@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
   ## Daily Office Quote
   > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
   >
-  > <p>-Dwight Schrute</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 
@@ -22,8 +22,8 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
   <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=our-blog&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
 
-<a href="https://github.com/abdullahwaseem01/WeatherSimple">
-  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=WeatherSimple&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
+<a href="https://github.com/abdullahwaseem01/friendster-api">
+  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=friendster-api&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
 <a href="https://github.com/abdullahwaseem01/Lab-Manager">
   <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=Lab-Manager&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
