@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I am immensely proud of what I did for that turtle!
+  > I feel God in this Chili’s tonight.
   >
-  > <p>- Kevin Malone</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 
