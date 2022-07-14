@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > Occasionally, I’ll hit somebody with my car. So sue me.
   >
-  > <p>- Gabe Lewis</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
@@ -53,5 +53,5 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
  
  ## &#x1f4c8; GitHub Stats
  <p align="center">
-  <img align="center" style="margin: 2rem;" src="http://github-readme-streak-stats.herokuapp.com?   user=abdullahwaseem01&theme=icegray&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000" />
+  <img align="center" style="margin: 2rem;" src="http://github-readme-streak-stats.herokuapp.com?user=abdullahwaseem01&theme=icegray&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000" />
   </p>
