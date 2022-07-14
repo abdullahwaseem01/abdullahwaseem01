@@ -25,6 +25,5 @@ const api = 'https://www.officeapi.dev/api/quotes/random';
                     });
                   }
                   generateReadMe();
-
         }
     });
