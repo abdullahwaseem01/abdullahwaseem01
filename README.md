@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It has to be official, and it has to be urine.
+  > I have a lot of questions. Number one, how dare you?
   >
-  > <p>- Dwight Schrute</p>
+  > <p>- Kelly Kapoor</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
