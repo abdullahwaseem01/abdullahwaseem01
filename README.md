@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
+  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
   >
-  > <p>- Toby Flenderson</p>
+  > <p>- Stanley Hudson</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
