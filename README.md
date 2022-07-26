@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I had feelings today for a coworker that I haven&#39;t had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
   >
-  > <p>- Jim Halpert</p>
+  > <p>- Oscar Martinez</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
