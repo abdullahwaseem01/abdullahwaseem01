@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
   >
   > <p>- Dwight Schrute</p>
 
