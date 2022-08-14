@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wake up every morning in a bed that&#39;s too small, drive my daughter to a school that&#39;s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   >
-  > <p>- Stanley Hudson</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
