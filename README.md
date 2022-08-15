@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+  > It has to be official, and it has to be urine.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
