@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+  > Well, Happy Birthday Jesus. Sorry your party’s so lame.
   >
-  > <p>- Angela Martin</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
