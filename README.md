@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I have a lot of questions. Number one, how dare you?
+  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
   >
-  > <p>- Kelly Kapoor</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
