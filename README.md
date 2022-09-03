@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+  > I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Angela Martin</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
