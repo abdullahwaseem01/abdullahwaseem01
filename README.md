@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+  > I didn&#39;t realize how many of Angela&#39;s opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Oscar Martinez</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
