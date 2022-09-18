@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Dwight, you ignorant slut!
+  > Sorry I annoyed you with my friendship.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
