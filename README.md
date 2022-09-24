@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
   >
-  > <p>- Gabe Lewis</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
