@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I&#39;ll be reading their e-mails.
+  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Toby Flenderson</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
