@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I&#39;m glad Michael&#39;s getting help. He has a lot of issues, and he&#39;s stupid.
+  > Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
   >
-  > <p>- Phyllis Lapin</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
