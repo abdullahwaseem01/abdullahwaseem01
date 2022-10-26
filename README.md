@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+  > Shut up about the sun. SHUT UP ABOUT THE SUN!
   >
-  > <p>- Andy Bernard</p>
+  > <p>- Gabe Lewis</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
