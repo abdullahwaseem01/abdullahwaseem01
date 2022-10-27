@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > It has to be official, and it has to be urine.
   >
-  > <p>- Gabe Lewis</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
