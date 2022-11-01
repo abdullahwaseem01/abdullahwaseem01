@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Shut up about the sun. SHUT UP ABOUT THE SUN!
+  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
   >
-  > <p>- Gabe Lewis</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
