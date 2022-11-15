@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I don&#39;t talk trash, I talk smack. They&#39;re totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You&#39;re ugly and I know it for a fact &#39;cause I got the evidence right there.
+  > You can&#39;t let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. &#39;Oh I like your dress, but I&#39;d like it more if you had prettier hair.&#39;
   >
-  > <p>- Kelly Kapoor</p>
+  > <p>- Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
