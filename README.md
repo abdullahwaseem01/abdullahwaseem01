@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > It has to be official, and it has to be urine.
+  > If you pray enough, you can change yourself into a cat person.
   >
-  > <p>- Dwight Schrute</p>
+  > <p>- Angela Martin</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
