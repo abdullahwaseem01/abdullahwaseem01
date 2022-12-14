@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > You can&#39;t let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. &#39;Oh I like your dress, but I&#39;d like it more if you had prettier hair.&#39;
+  > I had feelings today for a coworker that I haven&#39;t had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
   >
-  > <p>- Andy Bernard</p>
+  > <p>- Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
