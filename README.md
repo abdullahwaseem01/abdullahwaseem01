@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he&#39;s also the world&#39;s leading Egyptologist.
+  > In a gang world, we use something called fluffy fingers. That&#39;s when someone really gets in your face, you know you just, start ticklin&#39; &#39;em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you&#39;ve forgotten the whole thing. Y&#39;all just go to church together, and get an ice cream cone.
   >
-  > <p>- Toby Flenderson</p>
+  > <p>- Darryl Philbin</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
