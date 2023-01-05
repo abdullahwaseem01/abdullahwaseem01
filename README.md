@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Occasionally, I’ll hit somebody with my car. So sue me.
+  > Shut up about the sun. SHUT UP ABOUT THE SUN!
   >
-  > <p>- Michael Scott</p>
+  > <p>- Gabe Lewis</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
