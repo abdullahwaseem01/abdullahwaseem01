@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Occasionally, I’ll hit somebody with my car. So sue me.
+  > I feel God in this Chili’s tonight.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
