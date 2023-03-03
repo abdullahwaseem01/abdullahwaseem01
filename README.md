@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I. Declare. Bankruptcy!
+  > Sorry I annoyed you with my friendship.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Andy Bernard</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
