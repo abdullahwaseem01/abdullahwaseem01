@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+  > Whenever I&#39;m about to do something, I think, &#39;Would an idiot do that?&#39; And if they would, I do not do that thing.
   >
-  > <p>- Pam Beesly</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
