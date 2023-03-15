@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+  > In a gang world, we use something called fluffy fingers. That&#39;s when someone really gets in your face, you know you just, start ticklin&#39; &#39;em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you&#39;ve forgotten the whole thing. Y&#39;all just go to church together, and get an ice cream cone.
   >
-  > <p>- Dwight Schrute</p>
+  > <p>- Darryl Philbin</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
