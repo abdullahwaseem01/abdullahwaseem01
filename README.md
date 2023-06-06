@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days before you’ve actually left them.
+  > I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I have to do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill. I go back to sleep again. Then I wake up to the smell of crackling bacon. It is delicious, it’s good for me. It’s the perfect way to start the day.
   >
-  > <p>- Andy Bernard</p>
+  > <p>- Angela Martin</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
