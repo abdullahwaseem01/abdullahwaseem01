@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I never thought I’d say this, but I think I ate too much bone marrow.
+  > Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
   >
-  > <p>- Pam Beesly</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
