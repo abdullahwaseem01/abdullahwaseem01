@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+  > Bears. Beets. Battlestar Galactica.
   >
-  > <p>- Michael Scott</p>
+  > <p>- Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
