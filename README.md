@@ -18,10 +18,12 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 
 ## 📌 Pinned Repositories
 <p align="center">
-<a href="https://github.com/abdullahwaseem01/our-blog">
-  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=our-blog&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
+<a href="https://github.com/abdullahwaseem01/pulsepoint">
+  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=pulsepoint&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
-
+  <a href="https://github.com/abdullahwaseem01/velocity">
+  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=velocity&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
+</a>
 <a href="https://github.com/abdullahwaseem01/friendster-api">
   <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=friendster-api&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
