@@ -12,18 +12,16 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I have to do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill. I go back to sleep again. Then I wake up to the smell of crackling bacon. It is delicious, it’s good for me. It’s the perfect way to start the day.
+  > Whenever I’m about to do something, I think, “Would an idiot do that?” And if they would, I do not do that thing.
   >
-  > <p>- Angela Martin</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
-<a href="https://github.com/abdullahwaseem01/pulsepoint">
-  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=pulsepoint&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
+<a href="https://github.com/abdullahwaseem01/our-blog">
+  <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=our-blog&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
-  <a href="https://github.com/abdullahwaseem01/velocity">
-  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=velocity&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
-</a>
+
 <a href="https://github.com/abdullahwaseem01/friendster-api">
   <img align="center" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=friendster-api&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
