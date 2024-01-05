@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Actually, I’m glad you asked, because I wanted to take this opportunity to clarify that I do not, in fact, have a peanut allergy. I lied because I wanted you to stop offering me peanut butter sandwiches.
+  > I never thought I’d say this, but I think I ate too much bone marrow.
   >
-  > <p>- Oscar Martinez</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
