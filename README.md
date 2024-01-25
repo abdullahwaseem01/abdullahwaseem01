@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.
+  > I never thought I’d say this, but I think I ate too much bone marrow.
   >
-  > <p>- Kevin Malone</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
