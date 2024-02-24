@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Whenever I’m about to do something, I think, “Would an idiot do that?” And if they would, I do not do that thing.
+  > Bears. Beets. Battlestar Galactica.
   >
-  > <p>- Dwight Schrute</p>
+  > <p>- Jim Halpert</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
