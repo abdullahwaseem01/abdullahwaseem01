@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Whenever I’m about to do something, I think, “Would an idiot do that?” And if they would, I do not do that thing.
+  > Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
   >
-  > <p>- Dwight Schrute</p>
+  > <p>- Michael Scott</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
