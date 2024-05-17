@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Bears. Beets. Battlestar Galactica.
+  > I never thought I’d say this, but I think I ate too much bone marrow.
   >
-  > <p>- Jim Halpert</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
