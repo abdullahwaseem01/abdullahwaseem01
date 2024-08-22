@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.
+  > Whenever I’m about to do something, I think, “Would an idiot do that?” And if they would, I do not do that thing.
   >
-  > <p>- Kevin Malone</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
