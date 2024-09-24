@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > Bears. Beets. Battlestar Galactica.
+  > I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.
   >
-  > <p>- Jim Halpert</p>
+  > <p>- Kevin Malone</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
