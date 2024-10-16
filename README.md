@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I never thought I’d say this, but I think I ate too much bone marrow.
+  > Whenever I’m about to do something, I think, “Would an idiot do that?” And if they would, I do not do that thing.
   >
-  > <p>- Pam Beesly</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
