@@ -1,3 +1,5 @@
+[![Abdullah's Github Banner](./assets/header.png)](https://github.com/abdullahwaseem01)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdullahwaseem01/)
 
 
@@ -10,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days before you’ve actually left them.
+  > Whenever I’m about to do something, I think, “Would an idiot do that?” And if they would, I do not do that thing.
   >
-  > <p>- Andy Bernard</p>
+  > <p>- Dwight Schrute</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
