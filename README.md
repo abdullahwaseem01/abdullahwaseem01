@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days before you’ve actually left them.
+  > I never thought I’d say this, but I think I ate too much bone marrow.
   >
-  > <p>- Andy Bernard</p>
+  > <p>- Pam Beesly</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
