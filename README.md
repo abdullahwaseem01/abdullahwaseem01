@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://abdullahwaseem.com
 <br>
 
   ## Daily Office Quote
-  > I wish there was a way to know you’re in the good old days before you’ve actually left them.
+  > I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.
   >
-  > <p>- Andy Bernard</p>
+  > <p>- Kevin Malone</p>
 
 ## 📌 Pinned Repositories
 <p align="center">
